@@ -85,9 +85,7 @@ h2 {
 .error {
   color: red;
   font-size: 14px;
-  width: 10%;
-  height: 50vh;
-  margin-top: 6rem;
+  
   background-color: black;
 }
 
